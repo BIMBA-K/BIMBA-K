@@ -1,6 +1,6 @@
 # Hi 👋, My name is Bimba K
 
-### 🎓 B.E. in Computer Science & Engineering | Cybersecurity & Social Impact Enthusiast
+### 🎓 B.E. in Computer Science & Technology | Cybersecurity & Social Impact Enthusiast
 
 <p align="left">
   <img src="https://img.shields.io/badge/Hackathon%20Winner-Protonex%202026-gold?style=for-the-badge&logo=hackaday&logoColor=white" />
