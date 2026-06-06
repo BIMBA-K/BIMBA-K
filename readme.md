@@ -1,99 +1,80 @@
-# Hi 👋 My name is Bimba K
+# Hi 👋, My name is Bimba K
 
-### 🎓 B.E. in Computer Science & Engineering
+### 🎓 B.E. in Computer Science & Engineering | Cybersecurity & Social Impact Enthusiast
 
-🎤 Speaker & Technical Mentor: Guiding students through technology, innovation, and project development
-🏆 Hackathon Winner: 1st Place – Protonex 2026 & Namma Suraksha 2.0
-🛡️ Cybersecurity & Social Impact Enthusiast: Building solutions focused on safety, security, and community welfare
-
-I am a passionate Computer Science student who enjoys creating technology-driven solutions that solve real-world challenges. My interests span cybersecurity, mobile application development, and socially impactful innovations that improve people's lives.
-
-From developing women's safety applications to building cybersecurity solutions that protect users from malicious software and phishing attacks, I enjoy transforming ideas into practical products. I thrive in collaborative environments, actively mentor peers, and continuously seek opportunities to learn, innovate, and contribute to meaningful projects.
-
----
-
-* 🌍 I'm based in **Bangalore**
-* ✉️ You can contact me at **[bimba0624@gmail.com](mailto:bimba0624@gmail.com)**
-
----
-
-## 🚀 Featured Projects
-
-### Threat Rakshaka
-
-A cybersecurity-focused application designed to protect users from malicious APKs, phishing links, and online threats. The platform helps identify harmful applications, prevents further distribution, and assists authorities in tracking and mitigating cybercrime activities.
-
-### Jagruthi – Women Safety Route Deviation App
-
-A smart safety application designed to enhance women's security during travel. The system monitors route deviations and provides timely alerts to ensure user safety and rapid response during emergencies.
-
-### MediBesti - Smart healthcare assistant application
-
-A smart healthcare assistant application designed to simplify medication management and improve patient adherence. The platform uses OCR technology to extract prescription details, generate personalized medicine reminders, securely store prescriptions, provide allergy alerts, and offer health-related insights through an intuitive mobile experience.
-
----
-
-### 🛠️ Skills
-
-<h3>Languages</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-Protonex%202026-gold?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-Namma%20Suraksha%202.0-gold?style=for-the-badge&logo=hackaday&logoColor=white" />
 </p>
 
-<h3>Web & App Development</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-</p>
-
-<h3>Cybersecurity & Tools</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
- 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
-
-
-<img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Explainable AI (XAI)" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-</p>
+🎤 **Speaker & Technical Mentor** – Guiding students through technology, innovation, and end-to-end project development.  
+🛡️ **Impact-Driven Developer** – Building robust solutions focused on mobile security, digital safety, and community welfare.
 
 ---
 
-## 🏅 Achievements
+## 💫 About Me
 
-🥇 **1st Place – Protonex 2026 Hackathon**
+I am a passionate Computer Science & Engineering student dedicated to architecting high-impact, secure software solutions for real-world systemic challenges. My domain concentration resides at the intersection of **Mobile Application Ecosystems, Predictive Digital Safety, and Proactive Cyber Defense**.
 
-🥇 **1st Place – Namma Suraksha 2.0 Hackathon**
-
-🎤 **Technical Speaker & Mentor** – Conducted sessions and guided students in project development and technology learning.
-
-🤝 Active participant in innovation-driven events, hackathons, and community-building initiatives.
+* 🚀 **Hackathon-Driven Innovator:** Championed back-to-back first-place finishes at **Protonex 2026** and **Namma Suraksha 2.0**.
+* 🎤 **Community Catalyst:** Serve as a speaker and technical mentor, translating complex technical paradigms into digestible, actionable knowledge for student developers.
+* 🛡️ **Tech for Good:** Firm believer in leveraging lines of code to build an equitable, safe, and secure offline and digital society.
 
 ---
 
-## 🌐 Connect With Me
-
-I enjoy collaborating on impactful projects, cybersecurity initiatives, innovative applications, and technology communities. Let's connect and build something meaningful together.
+## 🚀 Featured Solutions Ecosystem
 
 <table>
   <tr>
-    <td align="center">
-      <a href="YOUR_GITHUB_LINK">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40"/>
-        <br><sub>GitHub</sub>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🛡️ Threat Rakshaka</h3>
+      <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square" alt="Domain" />
+      <p>An intelligent security system designed to intercept malicious APK distributions, flag phishing vectors, and provide tracking telemetry to digital forensics and local cybercrime cells.</p>
+      <p><b>Tech Stack:</b> Python, Android Security, Firebase, MySQL</p>
     </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/bimba-gowda">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40"/>
-        <br><sub>LinkedIn</sub>
-      </a>
+    <td width="50%" valign="top">
+      <h3>🚨 Jagruthi</h3>
+      <img src="https://img.shields.io/badge/Domain-Women%20Safety-blueviolet?style=flat-square" alt="Domain" />
+      <p>A proactive women's transit safety application tracking live GPS telemetry to flag anomalous route deviations and dispatch instant emergency alerts.</p>
+      <p><b>Tech Stack:</b> Flutter, Dart, Firebase, Google Maps API</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏥 MediBesti — Smart Healthcare Companion</h3>
+      <img src="https://img.shields.io/badge/Domain-Digital%20Health-green?style=flat-square" alt="Domain" />
+      <p>A high-adherence digital prescription manager leveraging localized Optical Character Recognition (OCR) engines to automate medicine calendars, securely parse sensitive documentation, and instantly cross-reference allergen data profiles.</p>
+      <p><b>Tech Stack:</b> Flutter/React Native, Tesseract OCR, AWS EC2, Cloud Firestore</p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Technology Stack Matrix
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Core Languages** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> |
+| **Frameworks & UI** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
+| **Cloud & Database** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" /> |
+| **DevOps & Versioning**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> |
+
+---
+
+## 🤝 Let's Connect
+
+I am continually seeking out open-source collaborations, security testing opportunities, and fast-paced engineering teams. 
+
+* 💬 Ask me about **Cybersecurity alternatives, Mobile App Architecture, or pitching at Hackathons**
+* 📧 Inbound Business/Collab Inquiries: **[bimba0624@gmail.com](mailto:bimba0624@gmail.com)**
+* ⚡ Fun Fact: My engineering style runs entirely on structural code logic, optimization algorithms, and strong filter coffee!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bimba-gowda" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bimba0624@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
