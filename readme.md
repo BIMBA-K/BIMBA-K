@@ -19,13 +19,17 @@ From developing women's safety applications to building cybersecurity solutions 
 
 ## 🚀 Featured Projects
 
-### 🛡️ Threat Rakshaka
+### Threat Rakshaka
 
 A cybersecurity-focused application designed to protect users from malicious APKs, phishing links, and online threats. The platform helps identify harmful applications, prevents further distribution, and assists authorities in tracking and mitigating cybercrime activities.
 
-### 🚨 Jagruthi – Women Safety Route Deviation App
+### Jagruthi – Women Safety Route Deviation App
 
 A smart safety application designed to enhance women's security during travel. The system monitors route deviations and provides timely alerts to ensure user safety and rapid response during emergencies.
+
+### MediBesti - Smart healthcare assistant application
+
+A smart healthcare assistant application designed to simplify medication management and improve patient adherence. The platform uses OCR technology to extract prescription details, generate personalized medicine reminders, securely store prescriptions, provide allergy alerts, and offer health-related insights through an intuitive mobile experience.
 
 ---
 
@@ -51,6 +55,11 @@ A smart safety application designed to enhance women's security during travel. T
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+ 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
+
+
+<img src="https://cdn.simpleicons.org/python" width="36" height="36" alt="Explainable AI (XAI)" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
 </p>
 
