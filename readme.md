@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-I am a passionate Computer Science & Engineering student dedicated to architecting high-impact, secure software solutions for real-world systemic challenges. My domain concentration resides at the intersection of **Mobile Application Ecosystems, Predictive Digital Safety, and Proactive Cyber Defense**.
+I am a passionate Computer Science & Technology student dedicated to architecting high-impact, secure software solutions for real-world systemic challenges. My domain concentration resides at the intersection of **Mobile Application Ecosystems, Predictive Digital Safety, and Proactive Cyber Defense**.
 
 * 🚀 **Hackathon-Driven Innovator:** Championed back-to-back first-place finishes at **Protonex 2026** and **Namma Suraksha 2.0**.
 * 🎤 **Community Catalyst:** Serve as a speaker and technical mentor, translating complex technical paradigms into digestible, actionable knowledge for student developers.
