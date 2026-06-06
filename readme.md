@@ -36,7 +36,7 @@ I am a passionate Computer Science & Engineering student dedicated to architecti
       <h3>🚨 Jagruthi</h3>
       <img src="https://img.shields.io/badge/Domain-Women%20Safety-blueviolet?style=flat-square" alt="Domain" />
       <p>A proactive women's transit safety application tracking live GPS telemetry to flag anomalous route deviations and dispatch instant emergency alerts.</p>
-      <p><b>Tech Stack:</b> Flutter, Dart, Firebase, Google Maps API</p>
+      <p><b>Tech Stack:</b> JavaScript,Flutter, Dart, Firebase, Google Maps API</p>
     </td>
   </tr>
   <tr>
